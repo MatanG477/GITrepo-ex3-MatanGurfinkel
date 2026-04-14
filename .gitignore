@@ -1,5 +1,0 @@
-# Ignore Java compiled files
-*.class
-
-# Ignore the Jenkins executable
-jenkins.war
